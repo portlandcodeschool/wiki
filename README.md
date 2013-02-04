@@ -1,4 +1,4 @@
 wiki
 ====
 
-Portland Code School Wiki
+Home of the Portland Code School Wiki. Click "Wiki" up above to access the wiki.
